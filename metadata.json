@@ -1,0 +1,7 @@
+{
+  "name": "AtmosView",
+  "description": "A dynamic, interactive weather portal featuring an animated mascot and time-traveling weather visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
