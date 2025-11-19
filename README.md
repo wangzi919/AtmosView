@@ -1,5 +1,5 @@
 **Prerequisites:**  Node.js
-1. cd Desktop/AtmosView (改成自己的專案位置)
+1. cd Desktop/AtmosView (請替換為您實際的資料夾路徑)
 
 2. Install dependencies:
    `npm install`
